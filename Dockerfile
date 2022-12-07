@@ -1,7 +1,7 @@
 # parameters
 ARG REPO_NAME="<my-ros-program>"
 ARG DESCRIPTION="<Line_follower_module>"
-ARG MAINTAINER=<Raimo Holm, Josten Laanemets> (<raimo.holm@eek.ee>)"
+ARG MAINTAINER="<Raimo Holm, Josten Laanemets> (<raimo.holm@eek.ee>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
